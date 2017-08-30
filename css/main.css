@@ -1384,6 +1384,9 @@ img.mfp-img {
     color: #87c05e;
 }
 
+.section-padding{
+    padding-top: 45px;
+}
 /* Footer Section */
 
 #footer {
