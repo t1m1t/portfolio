@@ -7,7 +7,7 @@
 @media (min-width: 992px) and (max-width: 1199px) {
 
 	.banner-info h2 {
-	    font-size: 110px;
+	    font-size: 100px;
 	    line-height: 80px;
 	}	
 	#navigation.menu-one .navbar {
@@ -219,6 +219,24 @@
 	}
 	.home-one .navbar-nav {
 		margin-top: 10px;
+	}
+	div.banner-content{
+		height: 389px;
+	}
+	.home-two .banner-info h1{
+		font-size: 33px;
+		margin-bottom: 25px;
+	}
+	.banner-info h2{
+		margin-left: 0;
+		font-size: 73px;
+	}
+	.banner-info h3{
+		font-size: 11px;
+		margin-top: 25px;
+	}
+	.home-two .home-social{
+		margin-top: -20px;
 	}
 }
 
@@ -533,6 +551,24 @@
 	.home-banner-one .banner-content {
 		padding: 15px;
 	}
+	div.banner-content{
+		height: 389px;
+	}
+	.home-two .banner-info h1{
+		font-size: 33px;
+		margin-bottom: 25px;
+	}
+	.banner-info h2{
+		margin-left: 0;
+		font-size: 55px;
+	}
+	.banner-info h3{
+		font-size: 11px;
+		margin-top: 25px;
+	}
+	.home-two .home-social{
+		margin-top: -20px;
+	}
 }
 
 /* XS Portrait */
@@ -638,6 +674,18 @@
 	}
 	#navigation.menu-one .navbar-nav > li {
 		height: 12%;
+	}
+	.banner-info h2{
+		margin-top: 30px;
+		margin-left: 0;
+		font-size: 55px;
+	}
+	.banner-info h3{
+		margin-top: 35px;
+	}
+	.home-two .home-social{
+		margin-left: 15px;
+		margin-top: -20px;
 	}
 }
 
