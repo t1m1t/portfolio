@@ -1391,17 +1391,20 @@ img.mfp-img {
     display: inline-block;
 }
 
-.portfolio_links_2{
+.portfolio_links_2a, .portfolio_links_2b{
     color: white;
-    margin-left: 27px;
-    margin-top: 50px;
+    font-style: italic;
+}
+
+.portfolio_links_2b{
+    margin-left: 15px;
 }
 
 /* Footer Section */
 
 #footer {
     color: #fff;
-    background-color: #1265c4git;
+    background-color: #1265c4;
     padding-top: 22px;
     padding-bottom: 10px;
 }

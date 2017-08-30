@@ -105,7 +105,7 @@ $(function(){
 // -------------------------------------------------------------
 
 (function () {
-    $('.portfolio-info a').magnificPopup({
+    $('.portfolio-info .port_images').magnificPopup({
       type: 'image',
       gallery:{
         enabled:true
