@@ -1386,11 +1386,22 @@ img.mfp-img {
 .section-padding{
     padding-top: 45px;
 }
+
+.portfolio_links{
+    display: inline-block;
+}
+
+.portfolio_links_2{
+    color: white;
+    margin-left: 27px;
+    margin-top: 50px;
+}
+
 /* Footer Section */
 
 #footer {
     color: #fff;
-    background-color: #87c05e;
+    background-color: #1265c4git;
     padding-top: 22px;
     padding-bottom: 10px;
 }
@@ -1400,7 +1411,7 @@ img.mfp-img {
 }
 
 #footer a:hover {
-    color: #6bff00;
+    color: #1265c4;
 }
 
 div#contact.contact-section.bg-color.section-padding{
