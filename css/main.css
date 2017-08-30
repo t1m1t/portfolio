@@ -841,6 +841,11 @@ ul.sub-menu {
     color: #bb460d;
 }
 
+.portfolio-info h4{
+    font-size: 15px;
+    color: white;
+}
+
 /*Magnific-popup overwrite CSS*/
 
 .mfp-figure {
