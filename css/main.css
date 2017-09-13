@@ -1375,7 +1375,6 @@ img.mfp-img {
 
 .portfolio_links_2a, .portfolio_links_2b{
     color: white;
-    font-style: italic;
 }
 
 .portfolio_links_2b{
@@ -1384,8 +1383,6 @@ img.mfp-img {
 
 .portfolio_links_2b_single{
     margin-left: 0;
-    font-style: italic;
-    color: white;
 }
 
 /* Footer Section */
