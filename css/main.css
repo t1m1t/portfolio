@@ -1374,16 +1374,14 @@ img.mfp-img {
 }
 
 .portfolio_links_2a, .portfolio_links_2b{
+    font-style: italic;
     color: white;
 }
 
-.portfolio_links_2b{
-    margin-left: 15px;
+.portfolio_links_2a{
+    margin-right: 15px;
 }
 
-.portfolio_links_2b_single{
-    margin-left: 0;
-}
 
 /* Footer Section */
 
