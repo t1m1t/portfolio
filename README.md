@@ -1,6 +1,6 @@
 # Timothy Yi's Portfolio
 
-Designed by: Surzil Geek
+Designed by: Roman Kirichik
 
 ## About
 
