@@ -1,26 +1,8 @@
 $(document).ready(init);
 
 function init(){
-    email();
-    phone();
     closeNav();
     $('.mfp-image').click(portfolioClick);
-}
-function email(){
-    var e = 'josh';
-    e += 'huber';
-    e += '.dev';
-    e += '@';
-    e += 'gmail.com';
-    $('.email').text(e);
-    e = 'mailto:' + e;
-    $('.email ').attr('href', e);
-}
-function phone(){
-    var p = '323';
-    p += '-905';
-    p += '-4712';
-    $('.phone').text(p);
 }
 function closeNav(){
     $(document).click(function (event) {

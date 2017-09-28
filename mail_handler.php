@@ -22,7 +22,7 @@ $options = array(
 $mail->smtpConnect($options);
 $mail->From = $_POST['email'];//your email sending account
 $mail->FromName = $_POST['name'];//your email sending account name
-$mail->addAddress('timothy.yi7@gmail.com', 'timothyyi'); /*your email address, or the email the sender if you are sending confirmation*/ /*email address user name*/    // Add a recipient
+$mail->addAddress('timothyyi.dev@gmail.com', 'timothyyi'); /*your email address, or the email the sender if you are sending confirmation*/ /*email address user name*/    // Add a recipient
 //$mail->addAddress('ellen@example.com');               // Name is optional
 $mail->addReplyTo($_POST['email']);/*email address of the person sending the message, so you can reply*/
 //$mail->addCC('cc@example.com');

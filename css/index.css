@@ -144,7 +144,7 @@ footer{
     border: 1px solid green;
 }
 /*end form*/
-/*porfolio images*/
+/*portfolio images*/
 /*.work-item:hover .work-img > img*/
 .portImg{
     -webkit-transform: scale(1.05);
@@ -155,7 +155,7 @@ footer{
 }
 .imgBackground{
 }
-/*end porfolio images*/
+/*end portfolio images*/
 
 @media (max-width: 767px) {
     .team-item-image {

@@ -126,7 +126,6 @@ Section Text:       15px/1.7 "Open Sans", arial, sans-serif;
 }
 
 ::-moz-selection{ color: #fff; background:#000; }
-::-webkit-selection{ color: #fff; background:#000; }
 ::selection{ color: #fff; background:#000; }
 
 .animate, .animate *{
